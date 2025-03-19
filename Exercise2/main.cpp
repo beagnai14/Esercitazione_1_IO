@@ -51,8 +51,7 @@ int main()
 	};
 
 	outputfile.close();
+	
 	return 0;
 	
 };
-
-ciao
