@@ -26,7 +26,7 @@ int main()
 	
 	//funzione lineare da [1,5] a [-1,2]
 	std::cout << std::fixed << std::setprecision(16); //precisione di 16 decimali
-	std::vector<double> y;   //y:vettore dinamico di double
+	std::vector<double> y;   //y:vettore 
 	double x;				 //x: numero del file
 
 	while (file >> x)
